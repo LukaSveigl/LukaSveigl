@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaSveigl
 - 👀 I’m interested in compilers, programming language design, parallel programming, operating systems, and many other CompSci topics. 
-- 🌱 I’m currently learning information systems design, datamining, parallel programming, systems programming, ...
+- 🌱 I’m currently learning information systems design, decision systems, parallel programming, systems programming, ...
 - 💞️ I’m looking to collaborate on anything I find interesting.
 - 📫 How to reach me: send an email.
 
